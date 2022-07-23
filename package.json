@@ -1,0 +1,8 @@
+{
+  "name": "react-study",
+  "private": true,
+  "dependencies": {
+    "typescript": "^4.7.4"
+  },
+  "scripts": {}
+}
